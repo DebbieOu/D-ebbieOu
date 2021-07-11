@@ -1,0 +1,44 @@
+.items-layout {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.item-card{
+    flex: 0 0 0 24%;
+    position: relative;
+    border: 5px solid #353232;
+    width: 240px;
+    height: 300px;
+    margin: 5px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transform: transform 1s;
+    transition: transform 1s;
+    cursor: pointer;
+    border-radius: 40px;
+}
+
+.item-card.flip {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.front-cover, .back-cover {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 30px;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.front-cover {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.back-cover {
+    background-color: #181715fb;
+    border-radius: 34px;
+}

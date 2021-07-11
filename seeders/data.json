@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "name": "Tomato",
+        "image_link":"images/20180226004.jpg"
+      },
+      {
+        "name": "Beef",
+        "image_link": "images/牛絞肉.png"
+      },
+      {
+        "name": "Corn",
+        "image_link": "images/玉米.png"
+      },
+      {
+        "name": "Lettuce",
+        "image_link": "images/DSC00012.jpg"
+      },
+      {
+        "name": "Broccoli",
+        "image_link": "images/DSC00030.jpg"
+      },
+      {
+        "name": "Mushrooms",
+        "image_link": "images/DSC00044.jpg"
+      },
+      {
+        "name": "Cilantro",
+        "image_link": "images/DSC00067.jpg"
+      },
+      {
+        "name": "Potato",
+        "image_link": "images/Potato.png"
+      },
+      {
+        "name": "Tomato",
+        "image_link":"images/20180226004.jpg"
+      },
+      {
+        "name": "Beef",
+        "image_link": "images/牛絞肉.png"
+      },
+      {
+        "name": "Corn",
+        "image_link": "images/玉米.png"
+      },
+      {
+        "name": "Lettuce",
+        "image_link": "images/DSC00012.jpg"
+      },
+      {
+        "name": "Broccoli",
+        "image_link": "images/DSC00030.jpg"
+      },
+      {
+        "name": "Mushrooms",
+        "image_link": "images/DSC00044.jpg"
+      },
+      {
+        "name": "Cilantro",
+        "image_link": "images/DSC00067.jpg"
+      },
+      {
+        "name": "Potato",
+        "image_link": "images/Potato.png"
+      }
+    ]
+  }  
